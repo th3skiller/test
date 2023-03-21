@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "category_name": "suggestion"
+    },
+    {
+        "id": 1,
+        "category_name": "fries"
+    },
+    {
+        "id": 2,
+        "category_name": "donut"
+    },
+    {
+        "id": 3,
+        "category_name": "salad"
+    },
+    {
+        "id": 4,
+        "category_name": "pizza"
+    },
+
+    {
+        "id": 5,
+        "category_name": "drinks"
+    }
+
+]
